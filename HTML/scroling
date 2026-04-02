@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+</head>
+<body>
+    <title>image handling</title>
+    <h1 align="center">balayya</h1>
+    <h1 align="center">balayya</h1>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnlVxqS-AJhEvIIhq_j30ysFsOfYbUsObzQ&s"width="800"height="500">
+    <marquee scroll amount="100px" scroll delay=""loop="4"behavior="alternate">balayya</marquee> direction="">        <span style="font-size: 40px;">balayya</span>
+</marquee>
+
+    <h1>flash man</h1>
+    <img src="https://purepng.com/public/uploads/large/flash-man-1ta.png"width="500"height="600">
+</body>
+</html>
